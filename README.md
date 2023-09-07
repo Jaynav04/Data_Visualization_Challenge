@@ -1,4 +1,4 @@
-# Data Visualization Challenge
+# Pymaceuticals, Inc
 
 ## Tools Used
 - Python
